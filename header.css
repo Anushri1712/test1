@@ -1,0 +1,11 @@
+.dropbtn{
+    color: blue;
+    font-size: large;
+    border:lightcoral ;
+}
+
+.dropdown{
+    position: relative;
+    padding: unset;
+
+}
